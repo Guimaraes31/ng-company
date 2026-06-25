@@ -1,0 +1,121 @@
+{
+  "refrigeracao": [
+    {
+      "src": "/portfolio/refrigeracao/01.png",
+      "label": "Tela 01",
+      "original": "1.png"
+    },
+    {
+      "src": "/portfolio/refrigeracao/02.png",
+      "label": "Tela 02",
+      "original": "2.png"
+    },
+    {
+      "src": "/portfolio/refrigeracao/03.png",
+      "label": "Tela 03",
+      "original": "3.png"
+    },
+    {
+      "src": "/portfolio/refrigeracao/04.png",
+      "label": "Tela 04",
+      "original": "4.png"
+    },
+    {
+      "src": "/portfolio/refrigeracao/05.png",
+      "label": "Tela 05",
+      "original": "5.png"
+    },
+    {
+      "src": "/portfolio/refrigeracao/06.png",
+      "label": "Tela 06",
+      "original": "6.png"
+    },
+    {
+      "src": "/portfolio/refrigeracao/07.png",
+      "label": "Tela 07",
+      "original": "Design sem nome.png"
+    },
+    {
+      "src": "/portfolio/refrigeracao/08.png",
+      "label": "Tela 08",
+      "original": "Design sem nome(1).png"
+    }
+  ],
+  "barbearia": [
+    {
+      "src": "/portfolio/barbearia/01.png",
+      "label": "Tela 01",
+      "original": "a1.png"
+    },
+    {
+      "src": "/portfolio/barbearia/02.png",
+      "label": "Tela 02",
+      "original": "a2.png"
+    },
+    {
+      "src": "/portfolio/barbearia/03.png",
+      "label": "Tela 03",
+      "original": "Captura de tela de 2026-06-24 21-32-44.png"
+    },
+    {
+      "src": "/portfolio/barbearia/04.png",
+      "label": "Tela 04",
+      "original": "Captura de tela de 2026-06-24 21-32-53.png"
+    },
+    {
+      "src": "/portfolio/barbearia/05.png",
+      "label": "Tela 05",
+      "original": "Captura de tela de 2026-06-24 21-33-33.png"
+    },
+    {
+      "src": "/portfolio/barbearia/06.png",
+      "label": "Tela 06",
+      "original": "Captura de tela de 2026-06-24 21-33-51.png"
+    },
+    {
+      "src": "/portfolio/barbearia/07.png",
+      "label": "Tela 07",
+      "original": "Captura de tela de 2026-06-24 21-33-59.png"
+    },
+    {
+      "src": "/portfolio/barbearia/08.png",
+      "label": "Tela 08",
+      "original": "Captura de tela de 2026-06-24 21-34-06.png"
+    },
+    {
+      "src": "/portfolio/barbearia/09.png",
+      "label": "Tela 09",
+      "original": "Captura de tela de 2026-06-24 21-34-13.png"
+    },
+    {
+      "src": "/portfolio/barbearia/10.png",
+      "label": "Tela 10",
+      "original": "Captura de tela de 2026-06-24 21-34-19.png"
+    },
+    {
+      "src": "/portfolio/barbearia/11.png",
+      "label": "Tela 11",
+      "original": "Captura de tela de 2026-06-24 21-34-41.png"
+    },
+    {
+      "src": "/portfolio/barbearia/12.png",
+      "label": "Tela 12",
+      "original": "Design sem nome.png"
+    },
+    {
+      "src": "/portfolio/barbearia/13.png",
+      "label": "Tela 13",
+      "original": "Design sem nome(1).png"
+    },
+    {
+      "src": "/portfolio/barbearia/14.png",
+      "label": "Tela 14",
+      "original": "Design sem nome(2).png"
+    },
+    {
+      "src": "/portfolio/barbearia/15.png",
+      "label": "Tela 15",
+      "original": "Design sem nome(3).png"
+    }
+  ]
+}
