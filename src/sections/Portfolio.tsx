@@ -5,6 +5,16 @@ import portfolioManifest from '../data/portfolio-manifest.json'
 const projects = [
   {
     id: 1,
+    title: 'Carteira',
+    category: 'PLANEJAMENTO FINANCEIRO',
+    description:
+      'Plataforma de controle patrimonial para consultorias financeiras, com gestão de clientes, carteiras, ativos, aportes, metas e relatórios em ambiente multi-tenant.',
+    highlights: ['Dashboard executivo', 'Multi-tenant & RBAC', 'Simulador financeiro'],
+    images: portfolioManifest.carteira,
+    url: 'carteira.app',
+  },
+  {
+    id: 2,
     title: 'Refrigeração',
     category: 'GESTÃO DE SERVIÇOS',
     description:
@@ -14,7 +24,7 @@ const projects = [
     url: 'refrigeracao.app',
   },
   {
-    id: 2,
+    id: 3,
     title: 'Barbearia',
     category: 'GESTÃO DE SALÃO',
     description:

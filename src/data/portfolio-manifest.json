@@ -1,4 +1,51 @@
 {
+  "carteira": [
+    {
+      "src": "/portfolio/carteira/01.png",
+      "label": "Visão Geral",
+      "original": "Captura de tela de 2026-06-25 19-03-12.png"
+    },
+    {
+      "src": "/portfolio/carteira/02.png",
+      "label": "Clientes",
+      "original": "Captura de tela de 2026-06-25 19-03-22.png"
+    },
+    {
+      "src": "/portfolio/carteira/03.png",
+      "label": "Carteiras",
+      "original": "Captura de tela de 2026-06-25 19-03-27.png"
+    },
+    {
+      "src": "/portfolio/carteira/04.png",
+      "label": "Meus Ativos",
+      "original": "Captura de tela de 2026-06-25 19-03-32.png"
+    },
+    {
+      "src": "/portfolio/carteira/05.png",
+      "label": "Aportes",
+      "original": "Captura de tela de 2026-06-25 19-03-36.png"
+    },
+    {
+      "src": "/portfolio/carteira/06.png",
+      "label": "Evolução",
+      "original": "Captura de tela de 2026-06-25 19-03-47.png"
+    },
+    {
+      "src": "/portfolio/carteira/07.png",
+      "label": "Alocação",
+      "original": "Captura de tela de 2026-06-25 19-03-52.png"
+    },
+    {
+      "src": "/portfolio/carteira/08.png",
+      "label": "Metas",
+      "original": "Captura de tela de 2026-06-25 19-03-56.png"
+    },
+    {
+      "src": "/portfolio/carteira/09.png",
+      "label": "Simulador",
+      "original": "Captura de tela de 2026-06-25 19-04-03.png"
+    }
+  ],
   "refrigeracao": [
     {
       "src": "/portfolio/refrigeracao/01.png",
