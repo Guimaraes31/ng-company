@@ -4,7 +4,7 @@ import { Plus, Minus } from 'lucide-react'
 const faqs = [
   {
     q: "O que está incluso na criação do site?",
-    a: "Design exclusivo, estrutura com até 6 páginas, responsividade completa, formulários de contato, integração com WhatsApp, otimização básica de SEO e entrega em até 15 dias úteis.",
+    a: "Design exclusivo, estrutura com até 8 páginas, responsividade completa, formulários de contato, integração com WhatsApp, otimização básica de SEO e entrega em até 15 dias úteis.",
   },
   {
     q: "Como funciona a manutenção mensal?",

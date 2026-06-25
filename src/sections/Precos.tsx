@@ -29,7 +29,7 @@ export default function Precos() {
             <ul className="space-y-[13px] text-sm flex-1">
               {[
                 "Design exclusivo e moderno",
-                "Até 6 páginas estruturadas",
+                "Até 8 páginas estruturadas",
                 "Site totalmente responsivo (celular, tablet e desktop)",
                 "Integração com WhatsApp e formulários de contato",
                 "Entrega em até 15 dias úteis",
